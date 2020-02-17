@@ -1,0 +1,29 @@
+{
+  "name": "@snapblocks/snap-components",
+  "version": "0.0.0",
+  "description": "Snapblocks components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapblocks/snap-components.git"
+  },
+  "keywords": [
+    "components",
+    "components",
+    "designsystem",
+    "design",
+    "development"
+  ],
+  "author": "Mariz Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapblocks/snap-components/issues"
+  },
+  "homepage": "https://github.com/snapblocks/snap-components#readme",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
