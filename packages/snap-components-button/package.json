@@ -1,0 +1,25 @@
+{
+  "name": "@snapblocks/snap-components-button",
+  "version": "0.0.0",
+  "description": "Snapblocks button component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapblocks/snap-components.git",
+    "directory": "packages/snap-components-button"
+  },
+  "keywords": [
+    "snapblocks",
+    "components",
+    "button"
+  ],
+  "author": "Mariz Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapblocks/snap-components/issues"
+  },
+  "homepage": "https://github.com/snapblocks/snap-components#readme"
+}

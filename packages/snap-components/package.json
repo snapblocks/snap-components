@@ -1,27 +1,20 @@
 {
   "name": "@snapblocks/snap-components",
   "version": "0.0.0",
-  "description": "Snapblocks components",
+  "description": "Snapblocks core styles and themes for components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snapblocks/snap-components.git"
+    "url": "git+https://github.com/snapblocks/snap-components.git",
+    "directory": "packages/snap-components"
   },
   "keywords": [
+    "snapblocks",
     "components",
-    "components",
-    "designsystem",
-    "designsystems",
-    "design-system",
-    "design-systems",
-    "design",
-    "development",
-    "web",
-    "css",
-    "javascript"
+    "css"
   ],
   "author": "Mariz Melo",
   "license": "MIT",
@@ -29,7 +22,7 @@
     "url": "https://github.com/snapblocks/snap-components/issues"
   },
   "homepage": "https://github.com/snapblocks/snap-components#readme",
-  "devDependencies": {
-    "lerna": "^3.20.2"
+  "dependencies": {
+    "@snapblocks/snap-components-button": "^0.0.0"
   }
 }
