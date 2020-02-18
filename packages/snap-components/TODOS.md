@@ -1,0 +1,2 @@
+- install webpack of parcel for building step
+- dependency on all components + common theme
