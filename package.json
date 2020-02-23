@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "version": "lerna version --conventional-commits --yes"
   },
   "repository": {
     "type": "git",
@@ -35,7 +36,8 @@
     "@babel/core": "^7.8.4",
     "@storybook/html": "^5.3.13",
     "babel-loader": "^8.0.6",
-    "lerna": "^3.20.2"
+    "lerna": "^3.20.2",
+    "parcel-bundler": "^1.12.4"
   },
   "dependencies": {}
 }
