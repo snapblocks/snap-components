@@ -4,7 +4,8 @@
   "description": "Snapblocks core styles and themes for components",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build snap-components.css"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/snapblocks/snap-components#readme",
   "dependencies": {
-    "@snapblocks/snap-components-button": "^0.0.0"
+    "@snapblocks/snap-components-button": "^0.0.0",
+    "@snapblocks/snap-components-colors": "^0.0.0"
   }
 }

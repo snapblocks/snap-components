@@ -1,4 +1,4 @@
-import '../packages/snap-components-button/styles.css';
+import '../packages/snap-components-button/button.css';
 
 export default {
   title: 'Button'
