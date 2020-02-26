@@ -1,11 +1,2 @@
-# `@snapblocks/snap-components-colors`
-
-> TODO: description
-
-## Usage
-
-```
-const snapComponentsColors = require('@snapblocks/snap-components-colors');
-
-// TODO: DEMONSTRATE API
-```
+# snap-components-colors
+Accessible colors based on the open-color project: [https://yeun.github.io/open-color/](https://yeun.github.io/open-color/)
