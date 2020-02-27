@@ -25,6 +25,7 @@
   "homepage": "https://github.com/snapblocks/snap-components#readme",
   "dependencies": {
     "@snapblocks/snap-components-button": "^0.0.0",
-    "@snapblocks/snap-components-colors": "^0.0.0"
+    "@snapblocks/snap-components-colors": "^0.0.0",
+    "normalize.css": "^8.0.1"
   }
 }

@@ -1,3 +1,6 @@
+/* normalize CSS */
+@import './node_modules/normalize.css/normalize.css';
+
 /* essentials */
 @import './node_modules/@snapblocks/snap-components-colors/colors.css';
 

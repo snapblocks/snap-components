@@ -1,0 +1,31 @@
+{
+  "name": "snap-components-typography",
+  "version": "0.0.0",
+  "description": "Snapblocks base typography",
+  "keywords": [
+    "snapblocks",
+    "components",
+    "typography"
+  ],
+  "author": "Mariz Melo <mm@xchema.com>",
+  "homepage": "https://github.com/snapblocks/snap-components/tree/master/packages/snap-components-typography#readme",
+  "license": "MIT",
+  "main": "lib/snap-components-typography.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapblocks/snap-components.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/snapblocks/snap-components/issues"
+  }
+}
