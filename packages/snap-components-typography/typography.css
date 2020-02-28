@@ -1,4 +1,17 @@
 /*! Snapblocks Typography */
+:root {
+  --font-size-xxs: 0.750rem; /* 12px */
+  --font-size-xs: 0.875rem; /* 14px */
+  --font-size-s: 1.125rem; /* 16px */
+  --font-size-m: 1.175rem; /* 18px */
+  --font-size-l: 1.250rem; /* 20px */
+  --font-size-xl: 1.500rem; /* 24px */
+  --font-size-xxl: 2.000rem; /* 32px */
+  --font-size-xxxl: 2.500rem; /* 40px */
+}
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: var(--font-size-s);
+  line-height: 1.4;
+  overflow-wrap: break-word; /* https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap */
 }
