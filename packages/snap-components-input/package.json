@@ -1,0 +1,31 @@
+{
+  "name": "snap-components-input",
+  "version": "0.0.0",
+  "description": "Snapblocks input component",
+  "keywords": [
+    "snapblocks",
+    "components",
+    "input"
+  ],
+  "author": "Mariz Melo <mm@xchema.com>",
+  "homepage": "https://github.com/snapblocks/snap-components/tree/master/packages/snap-components-input#readme",
+  "license": "MIT",
+  "main": "lib/snap-components-input.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapblocks/snap-components.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/snapblocks/snap-components/issues"
+  }
+}

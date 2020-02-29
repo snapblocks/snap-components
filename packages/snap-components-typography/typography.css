@@ -2,8 +2,8 @@
 :root {
   --font-size-xxs: 0.750rem; /* 12px */
   --font-size-xs: 0.875rem; /* 14px */
-  --font-size-s: 1.125rem; /* 16px */
-  --font-size-m: 1.175rem; /* 18px */
+  --font-size-s: 1; /* 16px */
+  --font-size-m: 1.125rem; /* 18px */
   --font-size-l: 1.250rem; /* 20px */
   --font-size-xl: 1.500rem; /* 24px */
   --font-size-xxl: 2.000rem; /* 32px */

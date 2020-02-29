@@ -1,4 +1,5 @@
 import '../packages/snap-components-colors/colors.css';
+import '../packages/snap-components-input/input.css';
 import '../packages/snap-components-typography/typography.css';
 
 export default {
